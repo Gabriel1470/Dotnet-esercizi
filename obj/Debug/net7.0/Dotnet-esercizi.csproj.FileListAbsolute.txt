@@ -1,0 +1,15 @@
+F:\visual\Esercizi-Dotnet\Dotnet-esercizi\bin\Debug\net7.0\Dotnet-esercizi.exe
+F:\visual\Esercizi-Dotnet\Dotnet-esercizi\bin\Debug\net7.0\Dotnet-esercizi.deps.json
+F:\visual\Esercizi-Dotnet\Dotnet-esercizi\bin\Debug\net7.0\Dotnet-esercizi.runtimeconfig.json
+F:\visual\Esercizi-Dotnet\Dotnet-esercizi\bin\Debug\net7.0\Dotnet-esercizi.dll
+F:\visual\Esercizi-Dotnet\Dotnet-esercizi\bin\Debug\net7.0\Dotnet-esercizi.pdb
+F:\visual\Esercizi-Dotnet\Dotnet-esercizi\obj\Debug\net7.0\Dotnet-esercizi.csproj.AssemblyReference.cache
+F:\visual\Esercizi-Dotnet\Dotnet-esercizi\obj\Debug\net7.0\Dotnet-esercizi.GeneratedMSBuildEditorConfig.editorconfig
+F:\visual\Esercizi-Dotnet\Dotnet-esercizi\obj\Debug\net7.0\Dotnet-esercizi.AssemblyInfoInputs.cache
+F:\visual\Esercizi-Dotnet\Dotnet-esercizi\obj\Debug\net7.0\Dotnet-esercizi.AssemblyInfo.cs
+F:\visual\Esercizi-Dotnet\Dotnet-esercizi\obj\Debug\net7.0\Dotnet-esercizi.csproj.CoreCompileInputs.cache
+F:\visual\Esercizi-Dotnet\Dotnet-esercizi\obj\Debug\net7.0\Dotnet-esercizi.dll
+F:\visual\Esercizi-Dotnet\Dotnet-esercizi\obj\Debug\net7.0\refint\Dotnet-esercizi.dll
+F:\visual\Esercizi-Dotnet\Dotnet-esercizi\obj\Debug\net7.0\Dotnet-esercizi.pdb
+F:\visual\Esercizi-Dotnet\Dotnet-esercizi\obj\Debug\net7.0\Dotnet-esercizi.genruntimeconfig.cache
+F:\visual\Esercizi-Dotnet\Dotnet-esercizi\obj\Debug\net7.0\ref\Dotnet-esercizi.dll
