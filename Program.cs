@@ -1,19 +1,7 @@
-﻿MyClass myObj = new MyClass();
+﻿using Dotnet_esercizi;
 
-//Console.WriteLine(myObj.privateMember);
-
-//Console.WriteLine(myObj.protectedMember);
-
-Console.WriteLine(myObj.internalMember);
-
-Console.WriteLine(myObj.publicMember);
-
-
-
-public class MyClass
-{
-    private int privateMember = 10;
-    protected int protectedMember = 20;
-    internal int internalMember = 30;
-    public int publicMember = 40;
-}
+DeniedCl denied = new DeniedCl();
+Console.WriteLine(denied.Get_Private());
+Console.WriteLine(denied.Get_Protected());
+Console.WriteLine(denied._internal);
+Console.WriteLine(denied._public);
